@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lopESIMNqy33RindWsdOWOGelXhtMS9ILVzNIhIKElOPKwXdZcBMM2TTaHH80FS9ESaDY3gZ6w3J/zsWspb/iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Music\\Projects\\Cafe\\Cafe\\Cafe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

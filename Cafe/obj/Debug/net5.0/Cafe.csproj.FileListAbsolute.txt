@@ -1,0 +1,240 @@
+H:\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+H:\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+H:\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+H:\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+H:\פרוייקט C#\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+H:\פרוייקט C#\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+H:\פרוייקט C#\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+H:\פרוייקט C#\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+H:\פרוייקט C#\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+H:\פרוייקט C#\Cafe\Cafe\bin\Debug\net5.0\ref\Cafe.dll
+H:\פרוייקט C#\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+H:\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+H:\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+H:\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+H:\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\bin\Debug\net5.0\ref\Cafe.dll
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+C:\Users\Yoga\Desktop\פרוייקט C#\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\bin\Debug\net5.0\ref\Cafe.dll
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+S:\HandesaimV\Students\Group1\מערבי מיכל\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+C:\Users\Yoga\Desktop\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+C:\Users\Yoga\Desktop\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+C:\Users\Yoga\Desktop\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+C:\Users\Yoga\Desktop\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+C:\Users\Yoga\Desktop\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+C:\Users\Yoga\Desktop\Cafe\Cafe\bin\Debug\net5.0\ref\Cafe.dll
+C:\Users\Yoga\Desktop\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+C:\Users\Yoga\Desktop\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+C:\Users\Yoga\Desktop\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoga\Desktop\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+C:\Users\Yoga\Desktop\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+C:\Users\Yoga\Desktop\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\Desktop\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+C:\Users\Yoga\Desktop\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+C:\Users\Yoga\Desktop\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+C:\Users\Yoga\Desktop\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\bin\Debug\net5.0\ref\Cafe.dll
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+H:\הפרוייקט שלנו המעודכן\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\ref\Cafe.dll
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+C:\Users\Yoga\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\ref\Cafe.dll
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+C:\Users\user\Desktop\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\ref\Cafe.dll
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+S:\HandesaimV\Students\Group1\אברמד מרגלית\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\ref\Cafe.dll
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+S:\HandesaimV\Students\Group1\מערבי מיכל\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\ref\Cafe.dll
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+C:\Users\Yoga\Desktop\היום יום ראשון פרוייקט C#\חדש חדש\פרוייקט בלי JSON\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\bin\Debug\net5.0\ref\Cafe.dll
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+S:\HandesaimV\Students\Group1\מערבי מיכל\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+H:\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+H:\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+H:\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+H:\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+H:\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+H:\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+H:\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+H:\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+H:\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+H:\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+H:\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+H:\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+H:\M&M\Cafe\Cafe\obj\Debug\net5.0\refint\Cafe.dll
+H:\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+H:\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+H:\M&M\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+E:\היום שני\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+E:\היום שני\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+E:\היום שני\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+E:\היום שני\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+E:\היום שני\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+E:\היום שני\M&M\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+E:\היום שני\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+E:\היום שני\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+E:\היום שני\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+E:\היום שני\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+E:\היום שני\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+E:\היום שני\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+E:\היום שני\M&M\Cafe\Cafe\obj\Debug\net5.0\refint\Cafe.dll
+E:\היום שני\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+E:\היום שני\M&M\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+E:\היום שני\M&M\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\obj\Debug\net5.0\refint\Cafe.dll
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+C:\Users\user\Documents\פרוייקטים להגה\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll
+C:\Users\user\Music\Projects\Cafe\Cafe\bin\Debug\net5.0\Cafe.exe
+C:\Users\user\Music\Projects\Cafe\Cafe\bin\Debug\net5.0\Cafe.deps.json
+C:\Users\user\Music\Projects\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.json
+C:\Users\user\Music\Projects\Cafe\Cafe\bin\Debug\net5.0\Cafe.runtimeconfig.dev.json
+C:\Users\user\Music\Projects\Cafe\Cafe\bin\Debug\net5.0\Cafe.dll
+C:\Users\user\Music\Projects\Cafe\Cafe\bin\Debug\net5.0\Cafe.pdb
+C:\Users\user\Music\Projects\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.AssemblyReference.cache
+C:\Users\user\Music\Projects\Cafe\Cafe\obj\Debug\net5.0\Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Music\Projects\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfoInputs.cache
+C:\Users\user\Music\Projects\Cafe\Cafe\obj\Debug\net5.0\Cafe.AssemblyInfo.cs
+C:\Users\user\Music\Projects\Cafe\Cafe\obj\Debug\net5.0\Cafe.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Projects\Cafe\Cafe\obj\Debug\net5.0\Cafe.dll
+C:\Users\user\Music\Projects\Cafe\Cafe\obj\Debug\net5.0\refint\Cafe.dll
+C:\Users\user\Music\Projects\Cafe\Cafe\obj\Debug\net5.0\Cafe.pdb
+C:\Users\user\Music\Projects\Cafe\Cafe\obj\Debug\net5.0\Cafe.genruntimeconfig.cache
+C:\Users\user\Music\Projects\Cafe\Cafe\obj\Debug\net5.0\ref\Cafe.dll

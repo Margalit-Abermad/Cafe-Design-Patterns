@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Alphabetical">
+  <Class Name="Cafe.Details">
+    <Position X="31.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAMQBAAAAAAACCEAAAAAAAABAAAAAAgAAAACECAg=</HashCode>
+      <FileName>DetailsFolder\Details.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.DetailsColdDrink" BaseTypeListCollapsed="true">
+    <Position X="38.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DetailsFolder\DetailsColdDrink.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.127" Collapsed="true" />
+  </Class>
+  <Class Name="Cafe.DetailsHotDrink" BaseTypeListCollapsed="true">
+    <Position X="36.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DetailsFolder\DetailsHotDrink.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.215" Collapsed="true" />
+  </Class>
+  <Class Name="Cafe.DetailsWaffle" BaseTypeListCollapsed="true">
+    <Position X="34.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DetailsFolder\DetailsWaffle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" Collapsed="true" />
+  </Class>
+  <Class Name="Cafe.ColdDrink">
+    <Position X="13.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAQAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DrinkFolder\ColdDrink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.HotDrink">
+    <Position X="13.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAYAAAAAgAAAAAAAIAAAgAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>DrinkFolder\HotDrink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.Circle">
+    <Position X="7.75" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WaffleFolder\Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.Square">
+    <Position X="10" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WaffleFolder\Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.Waffle">
+    <Position X="13.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WaffleFolder\Waffle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.Chef">
+    <Position X="21.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAgAAwAJABAAAAAAgAQAAIAAAA=</HashCode>
+      <FileName>Chef.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.Menu">
+    <Position X="18" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAACBAAABAAAAAAAAAAIAAAAACAQg=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.Order" BaseTypeListCollapsed="true">
+    <Position X="25.25" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAQAAQAABAQAEAAAAAUAAAAAAAAFAgAAAAAAMBA=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.185" Collapsed="true" />
+  </Class>
+  <Class Name="Cafe.Program">
+    <Position X="31.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.Waiters">
+    <Position X="28.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAAAAAAAAAAAAABAZAAABCAAAAAgAAAAABQAE=</HashCode>
+      <FileName>Waiters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.StateFolder.AtTheCustomer">
+    <Position X="31.25" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAABAAAAAABAACAAAABgAAAAMAAAAAAAAAAAAA=</HashCode>
+      <FileName>StateFolder\AtTheCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.StateFolder.AwaitingPayment">
+    <Position X="35.75" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAABAAAAAABAACAAAABgAAAAMAAAAAAAAAAAAA=</HashCode>
+      <FileName>StateFolder\AwaitingPayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.StateFolder.CanceledDueToLackOfMaterials">
+    <Position X="17.75" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAABAAAAAABAACAAAABgAAAAMAAAAAAAAAAAAA=</HashCode>
+      <FileName>StateFolder\CanceledDueToLackOfMaterials.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.StateFolder.Done">
+    <Position X="22.25" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAABAAAAAABAACAAAABgAAAAMAAAAAAAAAAAAA=</HashCode>
+      <FileName>StateFolder\Done.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.StateFolder.Finished">
+    <Position X="26.75" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAABAAAAAABAACAAAABgAAAAMAAAAAAAAAAAAA=</HashCode>
+      <FileName>StateFolder\Finished.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.StateFolder.MovedToTheKitchen">
+    <Position X="29" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAABAAAAAABAACAAAABgAAAAMAAAAAAAAAAAAA=</HashCode>
+      <FileName>StateFolder\MovedToTheKitchen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.StateFolder.ReadyState">
+    <Position X="33.5" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAABAAAAAABAACAAAABgAAAAMAEAAAAAAAAAAA=</HashCode>
+      <FileName>StateFolder\ReadyState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.StateFolder.State">
+    <Position X="26.75" Y="24.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAABBAAAAAABAACAAAABgAAAAMAAAAAAAAAAAAA=</HashCode>
+      <FileName>StateFolder\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.StateFolder.TransferredToWaiter">
+    <Position X="20" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAABAAAAAABAACAAAABgAAAAMAAAAAAAAAAAAA=</HashCode>
+      <FileName>StateFolder\TransferredToWaiter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.StateFolder.Treatment">
+    <Position X="24.5" Y="27.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAABAAAAAABAACAAAABgAAAAMAAAAAAAAAAAAA=</HashCode>
+      <FileName>StateFolder\Treatment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.Strategy_Save_Data.SaveCloud">
+    <Position X="34.5" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strategy Save Data\SaveCloud.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.Strategy_Save_Data.SaveDB">
+    <Position X="36.75" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strategy Save Data\SaveDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.Strategy_Save_Data.SaveJson">
+    <Position X="39" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strategy Save Data\SaveJson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.Strategy_Save_Data.StrategySaveData">
+    <Position X="36.75" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strategy Save Data\StrategySaveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.WaffleFolder.ChocolateDecorator">
+    <Position X="12.25" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WaffleFolder\ChocolateDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.WaffleFolder.KlikDecorator">
+    <Position X="14.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WaffleFolder\KlikDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.WaffleFolder.OreoDecorator">
+    <Position X="16.75" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WaffleFolder\OreoDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.WaffleFolder.PecanDecorator">
+    <Position X="19" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WaffleFolder\PecanDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cafe.WaffleFolder.WaffleDecorator">
+    <Position X="15.5" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WaffleFolder\WaffleDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Cafe.Food">
+    <Position X="36.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DetailsFolder\Food.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Cafe.OrderPrototype">
+    <Position X="25.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>OrderPrototype.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

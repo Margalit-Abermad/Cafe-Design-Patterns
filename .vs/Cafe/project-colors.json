@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "999d0d03-6a91-40ba-8d1e-d045969ad7ac": {
+      "ProjectGuid": "999d0d03-6a91-40ba-8d1e-d045969ad7ac",
+      "DisplayName": "Cafe",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
